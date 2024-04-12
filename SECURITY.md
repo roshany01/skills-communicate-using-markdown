@@ -29,3 +29,7 @@ git commit -m "commit msg"
 git pull -u origin main
 git push -u origin main
 ```
+
+```
+push to repo
+```
